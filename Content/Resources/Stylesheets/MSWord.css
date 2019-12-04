@@ -1,0 +1,82 @@
+/*<meta />*/
+
+/*<meta sourceDocument="C:\Users\dspencer\Documents\MSWord.doc" />*/
+
+p
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+ol
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+ul
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+li
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+td
+{
+	font-family: Arial;
+	vertical-align: top;
+}
+
+p.p
+{
+	font-family: Arial;
+	font-size: 12pt;
+}
+
+p.h1
+{
+	mc-heading-level: 1;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	page-break-before: always;
+	margin-top: 16pt;
+	margin-bottom: 16pt;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 24pt;
+}
+
+p.h1_1
+{
+	mc-heading-level: 1;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	page-break-before: always;
+	margin-top: 16pt;
+	margin-bottom: 16pt;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 24pt;
+	color: #000000;
+}
+
+p.p_1
+{
+	font-family: Arial;
+	font-size: 12pt;
+	color: #000000;
+}
+

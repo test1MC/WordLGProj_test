@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder=""
+  LastImport="2019-12-04T09:04:37.9151152-08:00">
+  <Files>
+    <Url
+      Source="../../../../../Documents/MSWord.doc"
+      AbsoluteSource="file:///C:/Users/dspencer/Documents/MSWord.doc" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Title.htm"
+      TimeStamp="12/4/2019 9:04:35 AM" />
+    <Url
+      Source="../TOCs/MSWord.fltoc"
+      TimeStamp="12/4/2019 9:04:35 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/MSWord.flmsp"
+      TimeStamp="12/4/2019 9:04:35 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MSWord.css"
+      TimeStamp="12/4/2019 9:04:35 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="h1"
+      To="p.h1"
+      Style="Word" />
+    <Map
+      From="p"
+      To="p.p"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles />
+</MsWordImport>
